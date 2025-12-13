@@ -15,6 +15,10 @@
     "react-dom": "19.2.1",
     "resend": "^6.6.0"
   },
+  "overrides": {
+    "react": "19.2.1",
+    "react-dom": "19.2.1"
+  },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
